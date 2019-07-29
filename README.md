@@ -8,7 +8,7 @@
 
 **Other links**:
 
-[Dashboard by Power BI](https://bit.ly/2K1QOJX/)
+[Dashboard by Power BI](https://app.powerbi.com/view?r=eyJrIjoiNDczZDk5ODEtZGFjYS00NmUzLTlkM2QtNmQwMzY1N2JjNTFjIiwidCI6IjM3ZGJkMzlkLTU2YTMtNDZiNC05MTVjLWE3NTBkMGQzOTJmNSIsImMiOjEwfQ%3D%3D)
 
 [RPubs](https://rpubs.com/Ibaitxus/time-series-forecasting/)
 
