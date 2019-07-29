@@ -7,9 +7,9 @@
 **Programs used**: R and Power BI
 
 **Other links**:
-    
-    - [Dashboard by Power BI](https://bit.ly/2K1QOJX/)
-    
-    - [RPubs](http://rpubs.com/Ibaitxus/time-series-forecasting/)
+
+[Dashboard by Power BI](https://bit.ly/2K1QOJX/)
+
+[RPubs](https://rpubs.com/Ibaitxus/time-series-forecasting/)
 
 
